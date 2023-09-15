@@ -1,0 +1,77 @@
+body
+{
+	direction:rtl;
+	background-color:#36454f;
+}
+
+p
+{
+	color:#ffffff;
+	font-family: serif;
+}
+h1
+{
+	color: rgb(255, 255, 255);
+	font-family: Cursive;
+	text-align:center;
+	
+	background-color: #28282f;
+}
+h2
+{
+	color: rgb(255, 255, 255);
+	font-family: Cursive;
+	
+	background-color: #28282f;
+}
+h3
+{
+	color: rgb(255, 255, 255);
+	font-family: Cursive;
+
+}
+
+
+table
+{
+	
+	border: 2px solid;
+	background-color:#36454f;
+	width: 50px;
+	height: 50px;	
+	color: #ffffff;
+	font-size: 25px;
+}
+td
+{
+	text-decoration-color: aliceblue;
+}
+
+#images
+{	
+	color: #353935;
+	text-align: center;
+}
+a
+{
+	color: rgb(247, 247, 247);
+}
+
+.r
+{
+   display: block;
+   text-align: left;
+}
+label
+{
+color: #f5f1f1;
+}
+fieldset
+{
+	width: 10cm;
+	
+}
+header{
+	display: flex;
+	background-color: #00273B;
+}
